@@ -1,2 +1,1 @@
-fixed cool cap not enableing
-fixed fish legs
+Bug Fixes
